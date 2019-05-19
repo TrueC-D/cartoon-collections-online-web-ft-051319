@@ -10,7 +10,8 @@ def summon_captain_planet(array)
 end
 
 def long_planeteer_calls(array)
-  
+  array.collect do |element|
+    if element.length >
 end
 
 def find_the_cheese# code an argument here
